@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm NIR 👋  
+### Software Engineer | Tech Enthusiast | Problem Solver
 
-<!--
-**zaidnir007/zaidnir007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I love building clean, functional and user-focused software.  
+💼 Current Focus: Full-Stack Development, AI Tools, Mobile Apps  
+📍 From Bangladesh  
+📧 Contact: zaidnir007@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+- **Languages:** JavaScript, Python, PHP, C, C++  
+- **Frontend:** HTML, CSS, Tailwind, Bootstrap, React  
+- **Backend:** Node.js, Express, PHP  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats  
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+- 🔗 Facebook: https://www.facebook.com/zaidnir  
+- 📷 Instagram: https://instagram.com/el_beleth  
